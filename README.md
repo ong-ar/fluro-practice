@@ -14,3 +14,16 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## fluro
+
+```
+...
+cupertino_icons: ^0.1.2
+fluro: ^1.5.1
+...
+```
+
+```
+$ flutter packages get
+```
